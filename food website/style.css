@@ -1,0 +1,75 @@
+*
+/* .navbar
+{
+    background-color: #222;
+} */
+
+/* ------------------------aboutsection-------------- */
+
+/* -----------home------------- */
+#homeimg
+{ width: 100%;
+    background-size: cover;
+    height: 550px;
+}
+
+
+#aboutimg
+{
+    padding-left: 50px;
+    padding-top: 100px;
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+}
+
+/* ---------------------------------menu--------------------------- */
+#row1img
+{
+   padding-top: 120px; 
+}
+/* -------------------------contact-------------- */
+#contact
+{
+padding-top: 120px;
+}
+
+/* ----------------reviews------------------- */
+#rowreviews
+{
+    padding-top: 150px;
+}
+
+
+
+.roundimg
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/*------------------- About -------------------*/
+.btn-secondary {
+    background-color: #dc3545;
+    color: white;
+
+}
+#formdesign
+
+{
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    /* width: 400px; */
+    padding-left: 30px;
+    border-radius: 2%;
+    background-color:rgba(180, 162, 162, 0.562) ;
+       /* text-align: center; */
+     
+}
+
+
+/* 
+-------------------------foot--------------- */
+
